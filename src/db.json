@@ -1,0 +1,16 @@
+{
+  "users": {
+    "bannedUsers": [
+    ],
+    "uncheckedMemes": {
+    },
+    "approvedMemes": {    
+    }
+},
+  "supportMessages": {
+  },
+  "memes": {
+    "memesToCheck": {
+    }
+  }
+}
